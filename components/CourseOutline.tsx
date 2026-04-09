@@ -1,7 +1,7 @@
 export default function CourseOutline() {
   const handleOpenCourseOutline = () => {
     // Replace with your Google Docs link
-    const courseLink = 'https://docs.google.com/document/d/YOUR_DOCUMENT_ID/edit'
+    const courseLink = 'https://docs.google.com/document/d/166EqZXWrDjt4uIbvNzKljbQDrNI-RtKtds7kNeU8q0U/edit?tab=t.0'
     window.open(courseLink, '_blank')
   }
 

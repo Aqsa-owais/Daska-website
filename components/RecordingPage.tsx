@@ -1,7 +1,7 @@
 export default function RecordingPage() {
   const handleOpenRecording = () => {
     // Replace with your Google Docs link
-    const recordingLink = 'https://docs.google.com/document/d/YOUR_DOCUMENT_ID/edit'
+    const recordingLink = 'https://docs.google.com/spreadsheets/d/1HBRyTNwS2ne-CQqAe2lWHMbhrxv30tbufu0mNud0QNc/edit?gid=0#gid=0'
     window.open(recordingLink, '_blank')
   }
 
