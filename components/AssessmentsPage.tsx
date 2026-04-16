@@ -6,7 +6,7 @@ export default function AssessmentsPage() {
 
   // Quiz 2 - Add your link here
   const handleQuiz2 = () => {
-    window.open('https://your-quiz-2-link-here.com', '_blank')
+    window.open('https://forms.gle/CtdEzYBfgG4ktUqDA', '_blank')
   }
 
   // Quiz 3 - Add your link here
