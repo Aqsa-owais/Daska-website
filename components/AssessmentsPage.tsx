@@ -11,33 +11,33 @@ export default function AssessmentsPage() {
 
   // Quiz 3 - Add your link here
   const handleQuiz3 = () => {
-    window.open('https://your-quiz-3-link-here.com', '_blank')
+    window.open('https://docs.google.com/forms/d/e/1FAIpQLSeyAd944lwTDEUhVAY7ZyYk5t2KtGPXfEfLIhnq96WIOIdOwg/viewform', '_blank')
   }
 
   // Quiz 4 - Add your link here
-  const handleQuiz4 = () => {
-    window.open('https://your-quiz-4-link-here.com', '_blank')
-  }
+  // const handleQuiz4 = () => {
+  //   window.open('https://your-quiz-4-link-here.com', '_blank')
+  // }
 
   // Quiz 5 - Add your link here
-  const handleQuiz5 = () => {
-    window.open('https://your-quiz-5-link-here.com', '_blank')
-  }
+  // const handleQuiz5 = () => {
+  //   window.open('https://your-quiz-5-link-here.com', '_blank')
+  // }
 
   // Quiz 6 - Add your link here
-  const handleQuiz6 = () => {
-    window.open('https://your-quiz-6-link-here.com', '_blank')
-  }
+  // const handleQuiz6 = () => {
+  //   window.open('https://your-quiz-6-link-here.com', '_blank')
+  // }
 
   // Quiz 7 - Add your link here
-  const handleQuiz7 = () => {
-    window.open('https://your-quiz-7-link-here.com', '_blank')
-  }
+  // const handleQuiz7 = () => {
+  //   window.open('https://your-quiz-7-link-here.com', '_blank')
+  // }
 
   // Quiz 8 - Add your link here
-  const handleQuiz8 = () => {
-    window.open('https://your-quiz-8-link-here.com', '_blank')
-  }
+  // const handleQuiz8 = () => {
+  //   window.open('https://your-quiz-8-link-here.com', '_blank')
+  // }
 
   return (
     <div className="min-h-screen bg-background p-8">
