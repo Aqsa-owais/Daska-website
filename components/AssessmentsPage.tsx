@@ -26,7 +26,7 @@ export default function AssessmentsPage() {
 
   // Quiz 6 - Add your link here
   const handleQuiz6 = () => {
-    window.open('https://your-quiz-6-link-here.com', '_blank')
+    window.open('https://docs.google.com/forms/d/e/1FAIpQLSeXuw2uagtDyQ08lIy-4UcknrMYHiqGBQhHbIfbRVQSw4TGuA/viewform?pli=1', '_blank')
   }
 
   // Quiz 7 - Add your link here
